@@ -12,7 +12,7 @@ theme:
 
   # Header and footer text
   header_text: >
-     <h1>“If I had asked people what they wanted, they would have said faster horses.” ~ Henry Ford ~.</h1>
+     <h1>“If I had asked people what they wanted, they would have said faster horses.” - Henry Ford.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
