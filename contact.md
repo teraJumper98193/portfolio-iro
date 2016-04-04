@@ -1,12 +1,6 @@
----
-layout: page
-title: Contact
-permalink: /contact/
-feature-img: "img/color.png"
----
 
 <!-- #1 -->
-<form action="https://getsimpleform.com/messages?form_api_token=" method=e9d7384972182ae274cbef6bd859ab68"post">
+<form action="https://getsimpleform.com/messages?form_api_token=" method="e9d7384972182ae274cbef6bd859ab68">
 <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
 <!-- #2 -->
 <input type='hidden' name='redirect_to' value='full-url/thank-you/' />
