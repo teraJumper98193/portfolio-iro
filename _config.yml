@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/teraJumper98193.github.io" # the subpath of your site, e.g. /blog/
-url: "http://teraJumper98193.github.io" # the base hostname & protocol for your site
+baseurl: "/tomaszswider.com" # the subpath of your site, e.g. /blog/
+url: "http://tomaszswider.com" # the base hostname & protocol for your site
 
 # THEME-SPECIFIC CONFIGURATION
 theme:
