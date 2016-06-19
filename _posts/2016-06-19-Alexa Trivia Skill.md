@@ -1,0 +1,6 @@
+---
+layout: post
+title: Alexa Trivia Skill
+---
+
+It's been a busy week trying to get my first public project up and running. The decision was made to make the Trivia about Copa America currently running. 100 questions were made up and min 4 answers were set up for the players. Once all written up, I was amazed how clear the pronunciation was in the testing phase. I mean, some of these names are obviously in Spanish and for the most part the program handled it perfectly. I tried to get a long "Goooooooool" sound going like on Spanish TV to no avail. Not there yet. But if you insert a question or an exclamation point at the end it does change the tone of the voice accordingly. Impressive. I had a few bugs nonetheless. Some questions and answers needed corrections. Some semicolons were missing upon copy/paste. Then the program would just quit with a "Goodbye", for no apparent reason. Further code digging revealed multiple "Var" assignments. Next it was submitted to Amazon. Came back a few times with a Rejection due to the name violating a Trademark but a few tweaks of the title and now it's officialy being certified. Fact Skill is next. Stay tuned. Time to code :)
